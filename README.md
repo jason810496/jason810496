@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Liu Zhe Yu</h1>
+<h1 align="center">Hi , I'm Liu Zhe Yu  👋</h1>
 <h3 align="center">A senior high school student from Taiwan who workout more often than coding ( X</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jason810496&label=Profile%20views&color=0e75b6&style=flat" alt="jason810496" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jason810496&label=Profile%20views&color=0e75b6&style=onedark&column=3" alt="jason810496" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jason810496" alt="jason810496" /></a> </p>
+![trophy](https://github-profile-trophy.vercel.app/?username=jason810496&no-frame=true&row=1&column=10)
 
 - 🌱 I’m currently learning **openCV , cybersecurity , react**
 
@@ -21,6 +21,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jason810496&show_icons=true&locale=en&layout=compact" alt="jason810496" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jason810496&show_icons=true&locale=en" alt="jason810496" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jason810496&" alt="jason810496" /></p>
