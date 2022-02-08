@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **openCV , cybersecurity , react**
 
-- 📝 I regularly write articles on [jason810496.github.io/blog](jason810496.github.io/blog)
+- 📝 I regularly write articles on [LJO's Blog](https://jason810496.github.io/blog/)
 
 - 💬 Ask me about **competitive programming , Algorithm**
 
