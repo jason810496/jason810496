@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm Liu Zhe Yu  👋</h1>
 <h3 align="center">A senior high school student from Taiwan who workout more often than coding ( X</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jason810496&label=Profile%20views&color=0e75b6&style=onedark&column=3" alt="jason810496" /> </p>
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=jason810496&no-frame=true&row=1&column=10)
 
 - 🌱 I’m currently learning **openCV , cybersecurity , react**
