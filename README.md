@@ -24,3 +24,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jason810496&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![LJO's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jason810496&theme=tokyonight&hide_border=true)
+
+[![wakatime](https://wakatime.com/badge/user/5c4d6a5b-0b6e-45b9-b81f-78e13584375d.svg)](https://wakatime.com/@5c4d6a5b-0b6e-45b9-b81f-78e13584375d)
