@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Liu Zhe Yu  👋</h1>
 <h3 align="center">A senior high school student from Taiwan who workout more often than coding ( X</h3>
 
-- 🌱 I’m currently learning **OpenCV , Python , JS**
+- 🌱 I’m currently learning **Website Backend , Frontend , Algorithm and more powerful Python package**
 
 - 📝 I regularly write articles on [LJO's Blog](https://jason810496.github.io/blog/)
 
