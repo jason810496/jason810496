@@ -1,12 +1,13 @@
 <h1 align="center">Hi , I'm Liu Zhe Yu  👋</h1>
 <h3 align="center">A senior high school student from Taiwan who workout more often than coding ( X</h3>
 
-- 🌱 I’m currently learning **openCV , cybersecurity , react**
+- 🌱 I’m currently learning ** , Python , JS**
 
 - 📝 I regularly write articles on [LJO's Blog](https://jason810496.github.io/blog/)
 
-- 💬 Ask me about **competitive programming , Algorithm**
+- 💬 Ask me about **Competitive Programming , Algorithm , C++/C , Python **
 
+- 🆓 I'm a freelancer , **Colleage algorithm , python project , different langs basic synatx assignment** can be sloved 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/810496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="810496" height="30" width="40" /></a>
@@ -21,7 +22,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason810496&layout=compact&theme=tokyonight&hide_border=true)
 
-[![Zerojudge Stats](https://zj-query-0.herokuapp.com/user?user_id=122857&name=Jason)](https://github.com/jason810496)
+[![Zerojudge Stats](https://zj-query-0.herokuapp.com/user?user_id=122857&name=Jason&theme=tokyonight)](https://github.com/jason810496)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jason810496&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
