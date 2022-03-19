@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [LJO's Blog](https://jason810496.github.io/blog/)
 
-- 💬 Ask me about **Competitive Programming , Algorithm , C++/C , Python **
+- 💬 Ask me about **Competitive Programming , Algorithm , C++/C , Python**
 
 - 🆓 I'm a freelancer , **Colleage algorithm , python project , different langs basic synatx assignment** can be sloved 
 <!-- <h3 align="left">Connect with me:</h3>
