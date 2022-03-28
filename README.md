@@ -1,13 +1,18 @@
 <h1 align="center">Hi , I'm Liu Zhe Yu  👋</h1>
-<h3 align="center">A senior high school student from Taiwan who workout more often than coding ( X</h3>
+<h3 align="center">A senior high school student from Taiwan who love coding !</h3>
+
+<h4 align="center"><a href="https://github.com/jason810496/jason810496/blob/main/README_zh.md">中文版</a></h4>
+
 
 - 🌱 I’m currently learning **Website Backend , Frontend , Algorithm and more powerful Python package**
 
-- 📝 I regularly write articles on [LJO's Blog](https://jason810496.github.io/blog/)
+- 📝 I regularly write articles on [My Blog](https://jason810496.github.io/blog/)
 
 - 💬 Ask me about **Competitive Programming , Algorithm , C++/C , Python**
 
 - 🆓 I'm a freelancer , **Colleage algorithm , python project , different langs basic synatx assignment** can be sloved 
+
+- 🔭 I’m currently working on [Zerojudge Stats](https://github.com/jason810496/Zerojudge-stats)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -15,6 +20,7 @@
 <a href="https://codepen.io/jason810496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jason810496" height="30" width="40" /></a>
 <a href="https://fb.com/100010981865378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100010981865378" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/810496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="810496" height="30" width="40" /></a>
+    <a href="https://instagram.com/jason2004424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jason2004424" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,3 +46,4 @@
 ![LJO's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jason810496&theme=tokyonight&hide_border=true)
 
 [![wakatime](https://wakatime.com/badge/user/5c4d6a5b-0b6e-45b9-b81f-78e13584375d.svg)](https://wakatime.com/@5c4d6a5b-0b6e-45b9-b81f-78e13584375d)
+
