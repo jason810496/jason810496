@@ -1,9 +1,7 @@
 <h1 align="center">我是劉哲佑👋</h1>
 <h3 align="center">一個喜歡打code的高中生!</h3>
 
-
-<a align="center" href="https://github.com/jason810496/jason810496/blob/main/README.md">English Version</a>
-
+<h4 align="center"><a href="https://github.com/jason810496/jason810496/blob/main/README.md">English Version</a></h4>
 
 - 🌱 我正在學習 **網頁後端 , 前段 , 演算法與更多強大的Python函式庫**
 
