@@ -11,6 +11,7 @@
 
 - 🔭 正在建置 [Zerojudge動態解題記錄卡](https://github.com/jason810496/Zerojudge-stats)
 
+- 💡 同時對生成式藝術有興趣 , [作品集](https://openprocessing.org/user/321518/?view=sketches) 
 <!-- 
 <h3 align="left">聯絡方式:</h3>
 <p align="left">

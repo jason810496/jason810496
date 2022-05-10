@@ -12,6 +12,7 @@
 
 - 🔭 I’m currently working on [Zerojudge Stats](https://github.com/jason810496/Zerojudge-stats)
 
+- 💡 Also interested in Generative Art , [My Artworks](https://openprocessing.org/user/321518/?view=sketches) 
 <!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
