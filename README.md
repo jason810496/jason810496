@@ -4,11 +4,11 @@
 <h4 align="center"><a href="https://github.com/jason810496/jason810496/blob/main/README_zh.md">中文版</a></h4>
 
 
-- 🌱 I’m currently learning **Website Backend , Frontend , Cyber Security , Algorithm and more powerful Python package**
+- 🌱 Currently learning **Website Backend , Frontend , Cyber Security , Algorithm and more powerful Python package**
 
 - 📝 I regularly write articles on [My Blog](https://jason810496.github.io/blog/)
 
-- 💬 Ask me about **Competitive Programming , Algorithm , C++/C , Python**
+- 💬 Familiar with **Competitive Programming , Algorithm , C++/C , Python**
 
 - 🔭 I’m currently working on [Zerojudge Stats](https://github.com/jason810496/Zerojudge-stats)
 
