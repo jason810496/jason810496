@@ -5,6 +5,8 @@
 
 <a href="https://github.com/jason810496/jason810496/">English version</a>
 
+<a href="https://jason810496.codes/">Website</a>|<a href="https://jason810496.codes/blog/">Blog</a>|<a href="https://hackmd.io/@jasonliu424">HackMD</a>
+
 <a href="https://wakatime.com/@5c4d6a5b-0b6e-45b9-b81f-78e13584375d"><img src="https://wakatime.com/badge/user/5c4d6a5b-0b6e-45b9-b81f-78e13584375d.svg" alt="Total time coded since Feb 8 2022" /></a>
 
 </samp>
