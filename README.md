@@ -5,6 +5,9 @@
 
 <a href="https://github.com/jason810496/jason810496/blob/main/README_zh.md">中文版</a>
 
+<a href="https://wakatime.com/@5c4d6a5b-0b6e-45b9-b81f-78e13584375d"><img src="https://wakatime.com/badge/user/5c4d6a5b-0b6e-45b9-b81f-78e13584375d.svg" alt="Total time coded since Feb 8 2022" /></a>
+
+
 </samp>
 <samp align="justify">
 My name is <strong> Liu Zhe You (JasonBigCow)</strong> , and I am currently studying in the Department of <strong>Computer Science & Information Engineering</strong> at <a href="https://www.csie.ncku.edu.tw/en/">National Cheng Kung University</a> .

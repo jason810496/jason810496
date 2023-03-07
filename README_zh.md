@@ -5,6 +5,8 @@
 
 <a href="https://github.com/jason810496/jason810496/">English version</a>
 
+<a href="https://wakatime.com/@5c4d6a5b-0b6e-45b9-b81f-78e13584375d"><img src="https://wakatime.com/badge/user/5c4d6a5b-0b6e-45b9-b81f-78e13584375d.svg" alt="Total time coded since Feb 8 2022" /></a>
+
 </samp>
 <samp>
 我是<strong> 劉哲佑 (JasonBigCow)</strong>，就讀於<a href="https://www.csie.ncku.edu.tw/en/">國立成功大學資訊工程學系</a>(大一)
