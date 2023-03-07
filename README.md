@@ -57,9 +57,9 @@ I have been taking on freelance jobs since my senior year in high school. This i
 
 #### Teaching Experience：
 - Wu-Ling Senior High School Computer Science Club 25th ：**Director**&**Education**
-- [Wu-Ling Computer Science self-study club](https://wulinginfor.tk/)**Algorithm Lecturer**
+- [Wu-Ling Computer Science self-study club](https://wulinginfor.tk/) : **Algorithm Lecturer**
 - NCKU [GDSC](https://gdsc.community.dev/national-cheng-kung-university/) Flutter group Lecturer
-- 2023 Joint Winter Training Program for 11 Southern Schools: basic data structure lecturer
+- 2023 Joint Winter Training Program for 11 Southern Schools : basic data structure lecturer
 - SITCON Tainan HoC Lecturer
 
 </td>
