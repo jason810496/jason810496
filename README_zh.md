@@ -7,17 +7,17 @@
 
 <a href="https://jason810496.codes/">Website</a>|<a href="https://jason810496.codes/blog/">Blog</a>|<a href="https://hackmd.io/@jasonliu424">HackMD</a>
 
-<a href="https://wakatime.com/@5c4d6a5b-0b6e-45b9-b81f-78e13584375d"><img src="https://wakatime.com/badge/user/5c4d6a5b-0b6e-45b9-b81f-78e13584375d.svg" alt="Total time coded since Feb 8 2022" /></a>
-
 </samp>
 <samp>
 我是<strong> 劉哲佑 (JasonBigCow)</strong>，就讀於<a href="https://www.csie.ncku.edu.tw/en/">國立成功大學資訊工程學系</a>(大一)
 <br><br>
 高中主要參與<strong>演算法競賽</strong>，目前專注於<strong>全端開發</strong>、CI/CD 和雲端整合技術
 <br><br>
-從高三就開始自由接案，負責大學 DSA 作業解題和網頁系統開發、維護
+從高三就開始自由接案，負責大學 DSA 作業解題和網頁系統開發與維護
 
 </samp>
+<br>
+<a href="https://wakatime.com/@5c4d6a5b-0b6e-45b9-b81f-78e13584375d"><img src="https://wakatime.com/badge/user/5c4d6a5b-0b6e-45b9-b81f-78e13584375d.svg" alt="Total time coded since Feb 8 2022" /></a>
 </div>
 
 <hr>

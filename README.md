@@ -7,8 +7,6 @@
 
 <a href="https://jason810496.codes/">Website</a>|<a href="https://jason810496.codes/blog/">Blog</a>|<a href="https://hackmd.io/@jasonliu424">HackMD</a>
 
-<a href="https://wakatime.com/@5c4d6a5b-0b6e-45b9-b81f-78e13584375d"><img src="https://wakatime.com/badge/user/5c4d6a5b-0b6e-45b9-b81f-78e13584375d.svg" alt="Total time coded since Feb 8 2022" /></a>
-
 
 </samp>
 <samp align="justify">
@@ -19,6 +17,8 @@ I participated in <strong>competitive programming contests</strong> in high scho
 I have been taking on freelance jobs since my senior year in high school. This includes helping to solve university DSA assignments, as well as developing and maintaining web systems.
 <br><br>
 </samp>
+
+<a href="https://wakatime.com/@5c4d6a5b-0b6e-45b9-b81f-78e13584375d"><img src="https://wakatime.com/badge/user/5c4d6a5b-0b6e-45b9-b81f-78e13584375d.svg" alt="Total time coded since Feb 8 2022" /></a>
 </div>
 
 <hr>
