@@ -5,11 +5,11 @@
 
 <a href="https://github.com/jason810496/jason810496/">English version</a>
 
-<a href="https://jason810496.codes/">Website</a>|<a href="https://jason810496.codes/blog/">Blog</a>|<a href="https://hackmd.io/@jasonliu424">HackMD</a>
+<a href="https://jason810496.github.io/">Website</a>|<a href="https://jason810496.github.io/blog/">Blog</a>|<a href="https://hackmd.io/@jasonliu424">HackMD</a>
 
 </samp>
 <samp>
-我是<strong> 劉哲佑 (JasonBigCow)</strong>，就讀於<a href="https://www.csie.ncku.edu.tw/en/">國立成功大學資訊工程學系</a>(大一)
+我是<strong> 劉哲佑 (Jason)</strong>，就讀於<a href="https://www.csie.ncku.edu.tw/en/">國立成功大學資訊工程學系</a>(大一)
 <br><br>
 高中主要參與<strong>演算法競賽</strong>，目前專注於<strong>全端開發</strong>、CI/CD 和雲端整合技術
 <br><br>
@@ -87,21 +87,26 @@
 ![C Sharp](https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label=)
 
 ### Framework :
+![FastAPI](https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF&label=)
 ![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)
+![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
 ![p5.js](https://img.shields.io/static/v1?style=for-the-badge&message=p5.js&color=ED225D&logo=p5.js&logoColor=FFFFFF&label=)
 
 ### Database :
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
-![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
+![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
+
 
 ### DevOps :
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 ![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=NGINX&logoColor=FFFFFF&label=)
 ![ngrok](https://img.shields.io/static/v1?style=for-the-badge&message=ngrok&color=1F1E37&logo=ngrok&logoColor=FFFFFF&label=)
 ![GNU Bash](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)
 
