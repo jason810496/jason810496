@@ -42,9 +42,12 @@ I have been taking on freelance jobs since my senior year in high school. This i
 <td valign="top" width="50%">
 
 #### Side Projects：
-- [Access Control System](https://github.com/jason810496/Access-control-system)
-- [WLCSC Official Website](https://github.com/jason810496/WLCSC)
+- [Local Markdown Presentation](https://github.com/jason810496/local-markdown-presentation)
+- [Rick Roll Shell](https://github.com/jason810496/Rick-Roll-Shell)
 - [NCKU HSPC Official Website](http://hspc2023.csie.ncku.edu.tw/)
+- [WLCSC Official Website](https://github.com/jason810496/WLCSC)
+- [CMS Crawler](https://github.com/jason810496/CMS-Crawler)
+- [Access Control System](https://github.com/jason810496/Access-control-system)
 - [Zerojudge Status](https://github.com/jason810496/Zerojudge-stats)
 - [Creative Coding](https://openprocessing.org/user/321518/?view=sketches)
 
@@ -56,11 +59,11 @@ I have been taking on freelance jobs since my senior year in high school. This i
 <td valign="top" width="50%">
 
 #### Teaching Experience：
-- Wu-Ling Senior High School Computer Science Club 25th ：**Director**&**Education**
+- Wu-Ling Senior High School Computer Science Club 25th ：**[Director&Education](https://www.facebook.com/WLCSC/)**
 - [Wu-Ling Computer Science self-study club](https://wulinginfor.tk/) : **Algorithm Lecturer**
 - NCKU [GDSC](https://gdsc.community.dev/national-cheng-kung-university/) Flutter group Lecturer
-- 2023 Joint Winter Training Program for 11 Southern Schools : basic data structure lecturer
-- SITCON Tainan HoC Lecturer
+- 2023 Joint Winter Training Program for 11 Southern Schools : [basic data structure](https://hackmd.io/@zhu424/cpp-stl-basic) lecturer
+- SITCON [Tainan HoC](https://hackmd.io/@SITCON/2022-HoC#%E5%8F%B0%E5%8D%97%E5%A0%B4) Lecturer
 - [Python summer camp](https://hackmd.io/@zhu424/python-tutorial-note) Lecturer for [GMJH](https://www.gmjh.tyc.edu.tw/)
 
 </td>
