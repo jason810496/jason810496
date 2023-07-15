@@ -61,6 +61,7 @@ I have been taking on freelance jobs since my senior year in high school. This i
 - NCKU [GDSC](https://gdsc.community.dev/national-cheng-kung-university/) Flutter group Lecturer
 - 2023 Joint Winter Training Program for 11 Southern Schools : basic data structure lecturer
 - SITCON Tainan HoC Lecturer
+- [Python summer camp](https://hackmd.io/@zhu424/python-tutorial-note) Lecturer for [GMJH](https://www.gmjh.tyc.edu.tw/)
 
 </td>
 </tr>
