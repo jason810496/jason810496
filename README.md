@@ -5,7 +5,7 @@
 
 <a href="https://github.com/jason810496/jason810496/blob/main/README_zh.md">中文</a>
 
-<a href="https://jason810496.github.io/">Website</a>|<a href="https://jason810496.github.io/blog/">Blog</a>|<a href="https://hackmd.io/@jasonliu424">HackMD</a>
+<a href="https://jason810496.github.io/">Website</a>|<a href="https://jason810496.github.io/blog/">Blog</a>|<a href="https://hackmd.io/@zhu424">HackMD</a>
 
 
 </samp>
