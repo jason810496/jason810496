@@ -42,12 +42,12 @@ I have been taking on freelance jobs since my senior year in high school. This i
 <td valign="top" width="50%">
 
 #### Side Projects：
+- [FastAPI Vue OAuth2](https://github.com/jason810496/FastAPI-Vue-OAuth2)
 - [Local Markdown Presentation](https://github.com/jason810496/local-markdown-presentation)
 - [Rick Roll Shell](https://github.com/jason810496/Rick-Roll-Shell)
 - [NCKU HSPC Official Website](http://hspc2023.csie.ncku.edu.tw/)
 - [WLCSC Official Website](https://github.com/jason810496/WLCSC)
 - [CMS Crawler](https://github.com/jason810496/CMS-Crawler)
-- [Access Control System](https://github.com/jason810496/Access-control-system)
 - [Zerojudge Status](https://github.com/jason810496/Zerojudge-stats)
 - [Creative Coding](https://openprocessing.org/user/321518/?view=sketches)
 
@@ -61,6 +61,7 @@ I have been taking on freelance jobs since my senior year in high school. This i
 #### Teaching Experience：
 - Wu-Ling Senior High School Computer Science Club 25th ：**[Director&Education](https://www.facebook.com/WLCSC/)**
 - [Wu-Ling Computer Science self-study club](https://wulinginfor.tk/) : **Algorithm Lecturer**
+- NCKU CSIE Program Design(1) : **Teaching Assistant**
 - NCKU [GDSC](https://gdsc.community.dev/national-cheng-kung-university/) Flutter group Lecturer
 - 2023 Joint Winter Training Program for 11 Southern Schools : [basic data structure](https://hackmd.io/@zhu424/cpp-stl-basic) lecturer
 - SITCON [Tainan HoC](https://hackmd.io/@SITCON/2022-HoC#%E5%8F%B0%E5%8D%97%E5%A0%B4) Lecturer
