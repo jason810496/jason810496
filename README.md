@@ -178,35 +178,35 @@ I have been taking on freelance jobs since my senior year in high school. This i
 <div align="center">
 <table width="100%">
 <tr>
-    <td valign="top" width="33.3%">
+    <td valign="top" width="30%">
         <h3 align="center" margin="0">💬 Most used language</h3>
     </td>
-    <td valign="top" width="33.3%">
+    <td valign="top" width="40%">
         <h3 align="center" margin="0">📦 Github Stuts</h3>
     </td>
-    <td valign="top" width="33.3%">
+    <td valign="top" width="30%">
         <h3 align="center" margin="0">⏱️ WakaTime status</h3>
     </td>
 </tr>
 <tr>
-    <td valign="top" width="33.3%">
+    <td valign="top" width="30%">
 <div align="center">
 
-![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=jason810496&theme=github_dark_dimmed&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.3)
+![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=jason810496&theme=github_dark_dimmed&langs_count=10&layout=pie&size_weight=0.5&count_weight=0.3)
 
 </div>
 
 </td>
-<td valign="top" width="33.3%">
+<td valign="top" width="40%">
 <div align="center">
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=jason810496&theme=github_dark_dimmed&show_icons=true)
 
 </div>
 </td>
-<td valign="top" width="33.3%">
+<td valign="top" width="30%">
     
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?langs_count=10&username=jason810496&theme=github_dark_dimmed&layout=compact)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jason810496&theme=github_dark_dimmed&langs_count=15)
 
 </td>
 </tr>
