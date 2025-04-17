@@ -173,7 +173,7 @@ I’ve also participated in <strong>competitive programming contests</strong> si
 <table width="100%">
 <tr>
     <td valign="top" width="100%">
-        <h3 align="center" margin="0">📈 Open Source Status </h3>
+        <h3 align="center" margin="0">📈 Open Source Histogram </h3>
     </td>
 </tr>
 <tr>
@@ -181,7 +181,10 @@ I’ve also participated in <strong>competitive programming contests</strong> si
 
 <div align="center">
 
-![apache/airflow](http://localhost:8000/example_user-example_org-example_repo-contribution-histogram.svg)
+<img
+    src="histograms/jason810496-apache-airflow-contribution-histogram.svg"
+    alt="GitHub Contribution Histogram"
+/>
 
 </div>
 

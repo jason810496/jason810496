@@ -1,0 +1,49 @@
+name: OSS Contribution Histogram
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run on at midnight UTC
+  workflow_dispatch:
+    inputs:
+      targets:
+        description: 'Target repositories and usernames (format: username,owner/repo [username,owner/repo ...])'
+        required: true
+        type: string
+        default: 'jason810496,apache/airflow'
+
+      exclude_review:
+        description: 'Exclude review contributions'
+        required: false
+        type: boolean
+        default: false
+
+env:
+  DEFAULT_TARGETS: 'jason810496,apache/airflow'
+  EXCLUDE_REVIEW: 'false'
+
+jobs:
+  update-histogram:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Contribution Histogram
+        uses: jason810496/gh-contribution-histogram-action@main
+        with:
+          targets: ${{ github.event.inputs.targets || env.DEFAULT_TARGETS }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output_dir: 'histograms'
+          exclude_authored_from_reviewed: ${{ github.event.inputs.exclude_review || env.EXCLUDE_REVIEW }}
+          theme: 'github_dark_dimmed'
+          reviewed_color: '1F6FEB'
+
+      - name: Commit and push updated image
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add histograms/*.png
+          git commit -m "Update PR histogram" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
