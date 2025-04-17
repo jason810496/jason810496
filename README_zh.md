@@ -161,7 +161,24 @@
 
 <!-- third row -->
 
-<hr>
+<div align="center">
+<table width="100%">
+<tr>
+    <td valign="top" width="100%">
+        <h3 align="center" margin="0">📈 開源統計 </h3>
+    </td>
+</tr>
+<tr>
+<td valign="top" width="100%">
+
+<div align="center">
+
+<img
+    src="histograms/jason810496-apache-airflow-contribution-histogram.svg"
+    alt="GitHub Contribution Histogram"
+/>
+
+</div>
 
 <div align="center">
 <table width="100%">

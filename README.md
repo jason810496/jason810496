@@ -173,7 +173,7 @@ I’ve also participated in <strong>competitive programming contests</strong> si
 <table width="100%">
 <tr>
     <td valign="top" width="100%">
-        <h3 align="center" margin="0">📈 Open Source Histogram </h3>
+        <h3 align="center" margin="0">📈 Open Source Status </h3>
     </td>
 </tr>
 <tr>
