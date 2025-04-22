@@ -40,9 +40,10 @@ jobs:
 
       - name: Commit and push updated image
         run: |
+          mv /home/runner/work/_actions/jason810496/gh-contribution-histogram-action/main/jason810496-apache-airflow-contribution-histogram.svg histograms/jason810496-apache-airflow-contribution-histogram.svg
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add histograms/*.png
+          git add histograms/*.svg
           git commit -m "Update PR histogram" || echo "No changes to commit"
           git push
         env:
