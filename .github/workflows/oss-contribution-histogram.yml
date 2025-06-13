@@ -1,4 +1,4 @@
-name: OSS Contribution Histogram
+name: OSS Contribution Graph
 
 on:
   schedule:
@@ -9,7 +9,7 @@ on:
         description: 'Target repositories and usernames (format: username,owner/repo [username,owner/repo ...])'
         required: true
         type: string
-        default: 'jason810496,apache/airflow'
+        default: 'jason810496@apache/airflow'
 
       exclude_review:
         description: 'Exclude review contributions'
@@ -18,7 +18,7 @@ on:
         default: false
 
 env:
-  DEFAULT_TARGETS: 'jason810496,apache/airflow'
+  DEFAULT_TARGETS: 'jason810496@apache/airflow'
   EXCLUDE_REVIEW: 'false'
 
 jobs:
@@ -28,23 +28,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Contribution Histogram
-        uses: jason810496/gh-contribution-histogram-action@main
+      - name: Generate Contribution Graph
+        uses: peterxcli/gh-contribution-graph-action@main
         with:
           targets: ${{ github.event.inputs.targets || env.DEFAULT_TARGETS }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          output_dir: 'histograms'
+          output_dir: 'images'
           exclude_authored_from_reviewed: ${{ github.event.inputs.exclude_review || env.EXCLUDE_REVIEW }}
-          theme: 'github_dark_dimmed'
-          reviewed_color: '1F6FEB'
 
       - name: Commit and push updated image
         run: |
-          mv /home/runner/work/_actions/jason810496/gh-contribution-histogram-action/main/jason810496-apache-airflow-contribution-histogram.svg histograms/jason810496-apache-airflow-contribution-histogram.svg
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add histograms/*.svg
-          git commit -m "Update PR histogram" || echo "No changes to commit"
+          git add images/*.svg
+          git commit -m "Update PR contribution graph" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
