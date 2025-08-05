@@ -173,10 +173,12 @@
 
 <div align="center">
 
+<a href="https://github.com/peterxcli/gh-contribution-graph-action/tree/main/">
 <img
-    src="histograms/jason810496-apache-airflow-contribution-histogram.svg"
-    alt="GitHub Contribution Histogram"
+    src="https://www.zhu424.dev/images/jason810496-apache-airflow-contribution-graph.svg"
+    alt="GitHub Contribution Graph"
 />
+</a>
 
 </div>
 
