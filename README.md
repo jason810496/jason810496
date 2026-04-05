@@ -10,10 +10,9 @@
 
 </samp>
 <samp align="justify">
-My name is <strong>Zhe-You (Jason) Liu</strong>, a junior majoring in <br>
-<strong>Computer Science & Information Engineering</strong> at <a href="https://www.csie.ncku.edu.tw/en/">National Cheng Kung University</a>.
-<br><br>
-I’ve been an <strong><a href="https://airflow.apache.org/community/#committers">Apache Airflow Committer</a></strong> since March 2025, <br>
+My name is <strong>Jason(Zhe-You) Liu</strong>. I'm a software engineer on the OSS Team at <a href="https://github.com/astronomer">Astronomer</a>.
+<br>
+<br>I’ve been an <strong><a href="https://airflow.apache.org/community/#committers">Apache Airflow Committer</a></strong> since March 2025, <br>
 and I’m currently focused on contributing to large-scale open source projects. <br> 
 
 <br>
@@ -32,7 +31,7 @@ I’ve also participated in <strong>competitive programming contests</strong> si
 <hr>
 
 
-<div align="center">
+<!-- <div align="center">
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
@@ -79,7 +78,7 @@ I’ve also participated in <strong>competitive programming contests</strong> si
 </td>
 </tr>
 </table>
-</div>
+</div> -->
 
 <!-- second row-->
 <div align="center">
@@ -100,7 +99,7 @@ I’ve also participated in <strong>competitive programming contests</strong> si
 
 </div>
 
-</td>
+<!-- </td>
     </tr>
         <tr>
             <td valign="top" width="100%">
@@ -108,10 +107,10 @@ I’ve also participated in <strong>competitive programming contests</strong> si
             </td>
         </tr>
     <tr>
-<td valign="top" width="100%">
+<td valign="top" width="100%"> -->
 
 <div align="center">
-<table width="100%" border="1">
+<!-- <table width="100%" border="1">
 <tr>
 <th>Backend</th>
 <th>Database</th>
@@ -166,7 +165,7 @@ I’ve also participated in <strong>competitive programming contests</strong> si
 
 </td>
 </tr>
-</table>
+</table> -->
 </div>
 
 <div align="center">
@@ -212,7 +211,7 @@ I’ve also participated in <strong>competitive programming contests</strong> si
 
 <div align="center">
 
-![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=jason810496&theme=github_dark_dimmed&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.3)
+![most used language](https://www.zhu424.dev/images/profile/top-langs.svg)
 
 </div>
 
@@ -220,7 +219,7 @@ I’ve also participated in <strong>competitive programming contests</strong> si
 <td valign="top" width="50%">
 <div align="center">
 
-![github stats](https://github-readme-stats.vercel.app/api?username=jason810496&theme=github_dark_dimmed&show_icons=true)
+![github stats](https://www.zhu424.dev/images/profile/stats.svg)
 
 </div>
 </tr>
